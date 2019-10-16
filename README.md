@@ -86,6 +86,14 @@ A URLogist
 
 ***
 
+#### My teacher dropped this the other day - 
+
+Documentation is like good sex,
+When it's good, it's very good,
+When it's bad, it's better than nothing
+
+***
+
 ![async](./images/async.png)
 ***
 
